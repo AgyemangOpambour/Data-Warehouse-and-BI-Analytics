@@ -1,0 +1,31 @@
+
+"MyDimDate"
+    dateid 
+    date
+    year 
+    quarter 
+    quartername
+    month
+    monthname
+    day   
+    weekday 
+    weekdayname 
+    
+
+
+"MyDimStation"
+    stationid 
+    city 
+
+"MyDimTruck"
+    truckid 
+    trucktype
+
+"MyFactTrips"
+    tripid 
+    dateid 
+    staionid
+    truckid
+    wastecollected
+
+
